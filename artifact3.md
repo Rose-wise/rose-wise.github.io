@@ -21,7 +21,7 @@ title: Artifacts
 
 A full-stack dashboard application enhanced with secure database integration, modular architecture, and interactive data visualization to support efficient data management.
 >
-### [View Original Code (GitHub)](https://github.com/lmalone74/Artifact-Three-Grazioso-Salvare/tree/Original-Code) | [View Enhanced Code (GitHub)](https://github.com/lmalone74/Artifact-Three-Grazioso-Salvare/tree/Enhanced-Code)
+### [View Original Code (GitHub)](https://github.com/rose-wise/Artifact-Three-Grazioso-Salvare/tree/Original-Code) | [View Enhanced Code (GitHub)](https://github.com/rose-wise/Artifact-Three-Grazioso-Salvare/tree/Enhanced-Code)
 >
 
 For my third artifact, I selected the Grazioso Salvare Animal Shelter Dashboard from CS 340 (2025). It is a Python-based application that connects to a MongoDB database and allows users to view, filter, and analyze animal shelter data through an interactive table, chart, and map. The original version was created in a Jupyter Notebook as part of a database assignment.
